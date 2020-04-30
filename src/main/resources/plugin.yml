@@ -1,0 +1,10 @@
+name: TabFilter
+version: ${project.version}
+main: com.github.frcsty.tabfilter.TabFilter
+api-version: 1.13
+load: POSTWORLD
+depend: ["LuckPerms"]
+
+commands:
+  completer:
+    description: tralala
